@@ -1,4 +1,10 @@
 
+
+
+
+
+
+
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm M.Zulquarnain</h1>
 <h3 align="center">A passionate frontend & RAG developer from Pakistan</h3>
@@ -7,19 +13,25 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mz-developer12&label=Profile%20views&color=0e75b6&style=flat" alt="mz-developer12" /> </p>
 
+<p align="left"> <a href="https://twitter.com/mz__unique" target="blank"><img src="https://img.shields.io/twitter/follow/mz__unique?logo=twitter&style=for-the-badge" alt="mz__unique" /></a> </p>
+
 - 🔭 I’m currently working on Ai/ml **RAG Chatbot**
 
 - 🌱 I’m currently learning **Artificial intelligence**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mz-developer12](https://github.com/mz-developer12)
 
-- 💬 Ask me about... **Anything**
+- 💬 Ask me about **Anything**
 
 - 📫 How to reach me **mzulquarnain153@gmail.com**
 
+- ⚡ Fun fact **I am funny**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/mz__unique" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mz__unique" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/muhammad-zulquarnain-8012262a8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-zulquarnain-8012262a8" height="30" width="40" /></a>
+<a href="https://instagram.com/mz___unique" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mz___unique" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -30,5 +42,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mz-developer12&show_icons=true&locale=en" alt="mz-developer12" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mz-developer12&" alt="mz-developer12" /></p>
-
-
